@@ -1,0 +1,17 @@
+Adresse : 192.168.10.1
+Classe : C
+Masque en bits : 24
+Plage : 192.168.10.0 - 192.168.10.255
+
+Adresse : 192.168.20.1
+Classe : C
+Masque en bits : 24
+Plage : 192.168.20.0 - 192.168.20.255
+
+
+
+Adresse : 192.168.30.1
+Classe : C
+Masque en bits : 16
+Plage : 192.168.0.0 - 192.168.255.255
+

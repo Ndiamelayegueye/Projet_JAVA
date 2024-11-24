@@ -1,0 +1,10 @@
+Adresse : 192.168.120.100
+Classe : C
+Masque en bits : 24
+Plage : 192.168.120.0 - 192.168.120.255
+
+Adresse : 192.168.120.10
+Classe : C
+Masque en bits : 24
+Plage : 192.168.120.0 - 192.168.120.255
+
